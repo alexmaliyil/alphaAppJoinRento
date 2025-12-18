@@ -1,0 +1,9 @@
+{
+  "required": "هذا الحقل مطلوب",
+  "invalidEmail": "بريد إلكتروني غير صالح",
+  "invalidPhone": "رقم هاتف غير صالح",
+  "passwordShort": "كلمة المرور قصيرة جداً",
+  "passwordMatch": "كلمات المرور غير متطابقة",
+  "userNotFound": "المستخدم غير موجود",
+  "generic": "حدث خطأ ما"
+}

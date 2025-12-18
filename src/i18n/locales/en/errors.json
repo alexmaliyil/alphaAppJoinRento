@@ -1,0 +1,9 @@
+{
+  "required": "This field is required",
+  "invalidEmail": "Invalid email address",
+  "invalidPhone": "Invalid phone number",
+  "passwordShort": "Password too short",
+  "passwordMatch": "Passwords do not match",
+  "userNotFound": "User not found",
+  "generic": "Something went wrong"
+}
